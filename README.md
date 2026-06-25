@@ -1,1 +1,19 @@
-# innowise-de-lab-june-2026_Alesya_Shubovskaya
+# EcoMarket - анализ фермерских продаж
+Цель учебного проекта EcoMarket создать модель единой системы аналитики для сети экомагазинов, чтобы отслеживать продажи фермерских товаров, прогнозировать спрос на экопродукты, анализировать работу сотрудников.
+## Источники данных
+- **sales.csv**
+
+ - **customers.csv** 
+
+- **products.csv** 
+
+- **categories.csv** 
+
+- **employees.csv** 
+
+- **cities.csv**
+
+ - **countries.csv** 
+
+- **shops.csv** 
+## Автор проекта Алеся Шубовская alesya.shubovskaya@yandex.by
