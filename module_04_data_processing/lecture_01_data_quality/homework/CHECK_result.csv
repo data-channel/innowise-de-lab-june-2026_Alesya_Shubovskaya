@@ -1,0 +1,4 @@
+"constraint_name";"constraint_type"
+silver_employees_pkey;PRIMARY KEY
+check_hire_after_birth;CHECK
+"24874_24909_1_not_null";CHECK
