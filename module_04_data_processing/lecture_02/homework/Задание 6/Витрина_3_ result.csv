@@ -1,0 +1,10 @@
+"activity_status";"customer_segment";"customer_count";"avg_spent";"total_segment_revenue"
+Active;Basic;252;430.16;108399.10
+Active;Premium;49033;1547.84;75895238.23
+Active;Regular;10213;838.62;8564871.88
+At Risk;Basic;268;430.95;115493.59
+At Risk;Premium;24866;1524.13;37899137.00
+At Risk;Regular;7340;826.26;6064767.18
+Inactive;Basic;215;416.96;89646.32
+Inactive;Premium;5201;1483.06;7713397.13
+Inactive;Regular;2612;806.91;2107646.42

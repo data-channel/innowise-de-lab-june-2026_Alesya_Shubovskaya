@@ -1,0 +1,16 @@
+"shop_id";"shop_name";"address";"city";"country";"full_date";"daily_revenue";"items_sold";"orders_count";"unique_customers";"avg_check"
+1;Магазин №1;SHOP0001 Moore Mills;Berlin;Germany;2023-12-31;11779.05;390;156;156;75.51
+2;Магазин №2;SHOP0002 Nicole Station;Berlin;Germany;2023-12-31;8417.63;337;133;133;63.29
+3;Магазин №3;SHOP0003 Christy Creek;Berlin;Germany;2023-12-31;13552.79;503;203;202;66.76
+4;Магазин №4;SHOP0004 Candace Isle;Berlin;Germany;2023-12-31;11487.47;380;152;152;75.58
+5;Магазин №5;SHOP0005 Lopez Groves;Berlin;Germany;2023-12-31;7890.08;303;127;127;62.13
+6;Магазин №6;SHOP0006 Allen View;Berlin;Germany;2023-12-31;10737.35;388;149;148;72.06
+7;Магазин №7;SHOP0007 Jones Canyon;Hamburg;Germany;2023-12-31;7802.10;304;112;112;69.66
+8;Магазин №8;SHOP0008 Rachael Mountain;Hamburg;Germany;2023-12-31;10228.57;434;167;167;61.25
+9;Магазин №9;SHOP0009 Hart Locks;Hamburg;Germany;2023-12-31;6606.35;226;96;96;68.82
+10;Магазин №10;SHOP0010 Fernandez Inlet;Hamburg;Germany;2023-12-31;10248.19;606;136;136;75.35
+11;Магазин №11;SHOP0011 Stacy Alley;Hamburg;Germany;2023-12-31;6859.88;306;120;120;57.17
+12;Магазин №12;SHOP0012 Horn Points;Hamburg;Germany;2023-12-31;11857.19;369;138;138;85.92
+13;Магазин №13;SHOP0013 Arellano Ramp;Hamburg;Germany;2023-12-31;10348.40;330;125;125;82.79
+14;Магазин №14;SHOP0014 Barnes Union;Munich;Germany;2023-12-31;8831.61;322;126;126;70.09
+15;Магазин №15;SHOP0015 Hurst Ferry;Munich;Germany;2023-12-31;9936.33;337;128;128;77.63
