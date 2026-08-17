@@ -1,1 +1,0 @@
-SQL Error [42501]: ERROR: permission denied for table sales
